@@ -1,4 +1,4 @@
-# ¡Hello world!
+<!--# ¡Hello world!
 Digital designer and frontend developer Jr. in training.
 Bienvenido a mi perfil Soy [Tu Nombre] 👩‍💻✨
 
@@ -7,9 +7,6 @@ Bienvenido a mi perfil Soy [Tu Nombre] 👩‍💻✨
 - 📍 Location: Mexico City 🇲🇽
 - 📣 Languages: English Basic & Spanish
 
-
-
-**laurasolch/laurasolch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
